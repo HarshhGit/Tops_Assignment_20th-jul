@@ -1,0 +1,39 @@
+---------------> Module – 1 (SDLC)
+
+Q.1]. What is Software?
+ANS:  Software refers to a collection of data or computer instructions that tell the computer how to work. It's a set of programs, procedures and data that perform specific tasks on a computer system. Software enables users to interact with hardware and perform various tasks, ranging from simple calculations to complex operations in applications like word processors, video games, operating systems, and more.
+
+Q.2]. What are the types of Applications?
+ANS: Applications continues to evolve with advancements in technology and changing user demands. Each type of application serves a distinct purpose, whether for personal use, business productivity, entertainment, communication, or specialized tasks.
+#Types of Applications: 
+[1]system software:
+i).  operating systems like Windows10,windows 11,macOS, Ubuntu etc.
+ii). device drivers like graphics cards, network adapters, etc. 
+[2]application software:
+i).   word processors, Microsoft Word,Google Docs.
+ii).  Spreadsheets:Microsoft Excel,Google Sheets
+iii). Web Browsers like Google Chrome, Microsoft Edge.
+[3]Mobile Apps: 
+Facebook app,Instagram app etc.
+
+Q.3]. What is programing?
+ANS. Programming refers to the process of creating instructions that a computer can follow to perform specific tasks or achieve desired outcomes. It involves testing, debugging, and maintaining the source code of computer programs.
+Programming is used to create a wide range of software applications, from simple scripts and mobile apps to complex systems like operating systems, databases, and web applications.
+
+Q.4]. What is Python?
+ANS. Python is a high-level, interpreted programming language known for its simplicity and readability. It was created by Guido van Rossum and first released in 1991. Python is widely used for various purposes, including web development, data analysis, artificial intelligence, scientific computing, and more.
+
+---------------> Module – 2 (Fundamentals of python)
+
+Q.1]. How memory is managed in Python?
+ANS:  In Python, memory management is handled automatically by the Python runtime through a private heap.Python automatically allocates memory for new objects when they are created and deallocates memory when objects are no longer in use python also employs a garbage collector to reclaim memory occupied by objects that are no longer needed or unreachable.Python's memory management simplifies programming by automating memory-related tasks, allowing developers to focus more on application logic and less on memory allocation details.
+
+Q.2]. What is the purpose continue statement in python?
+ANS:  In Python, the continue statement is used within loops such as for loops, while loops to skip the remaining code inside the loop for the current iteration and proceed to the next iteration. Its primary purpose is to alter the flow of control in loops based on certain conditions.
+
+Q.3]. What are negative indexes and why are they used?
+ANS.  Positive indexes refer to elements from the beginning of the sequence 0 for the first element, 1 for the second, etc.
+Negative indexes, on the other hand, count backward from the end of the sequence, starting with -1 for the last element, -2 for the second last, and so on.
+negative indexes in Python are a convenient feature that allows for easy access to elements from the end of sequences. They simplify code and make it more readable by providing a straightforward way to access elements without needing to manually calculate indices relative to the end of a sequence.
+
+
